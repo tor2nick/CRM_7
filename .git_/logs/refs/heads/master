@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 4eff9e7517940190cf4c78a1e04315e2be4acb7e Nat <nataliatornea85@gmail.com> 1637872332 +0100	clone: from https://github.com/Nateu6/CRM_7.git
+4eff9e7517940190cf4c78a1e04315e2be4acb7e ba6c9efe95e511a389c55ee1776f9b0fd4903428 Nat <nataliatornea85@gmail.com> 1637872451 +0100	commit: Login feature update
+ba6c9efe95e511a389c55ee1776f9b0fd4903428 5e47ba9cef9ace2e3fa266a2fed176a8ffe1af38 Nat <nataliatornea85@gmail.com> 1637872648 +0100	commit: Login feature update
+5e47ba9cef9ace2e3fa266a2fed176a8ffe1af38 e1841a7f3da830069bb4bbdb7487503d26ab0df0 Nat <nataliatornea85@gmail.com> 1638302144 +0100	fetch origin master:master --recurse-submodules=no --progress --prune: fast-forward

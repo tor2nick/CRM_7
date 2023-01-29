@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 4eff9e7517940190cf4c78a1e04315e2be4acb7e Nat <nataliatornea85@gmail.com> 1637872332 +0100	clone: from https://github.com/Nateu6/CRM_7.git
+4eff9e7517940190cf4c78a1e04315e2be4acb7e ba6c9efe95e511a389c55ee1776f9b0fd4903428 Nat <nataliatornea85@gmail.com> 1637872451 +0100	commit: Login feature update
+ba6c9efe95e511a389c55ee1776f9b0fd4903428 5e47ba9cef9ace2e3fa266a2fed176a8ffe1af38 Nat <nataliatornea85@gmail.com> 1637872648 +0100	commit: Login feature update
+5e47ba9cef9ace2e3fa266a2fed176a8ffe1af38 679c747f8082e42a43c08a227f87f1df29fd150e Nat <nataliatornea85@gmail.com> 1637948869 +0100	checkout: moving from master to Murat
+679c747f8082e42a43c08a227f87f1df29fd150e 921f7bdc9d5e9cfd8cc0bfa041b79eba9e7f3674 Nat <nataliatornea85@gmail.com> 1637948944 +0100	merge origin/Murat: Fast-forward
+921f7bdc9d5e9cfd8cc0bfa041b79eba9e7f3674 5e47ba9cef9ace2e3fa266a2fed176a8ffe1af38 Nat <nataliatornea85@gmail.com> 1637948984 +0100	checkout: moving from Murat to master
+5e47ba9cef9ace2e3fa266a2fed176a8ffe1af38 921f7bdc9d5e9cfd8cc0bfa041b79eba9e7f3674 Nat <nataliatornea85@gmail.com> 1637949015 +0100	checkout: moving from master to Murat
+921f7bdc9d5e9cfd8cc0bfa041b79eba9e7f3674 e290597457d852a7744769d7f18a01cd701a6d91 Nat <nataliatornea85@gmail.com> 1638218375 +0100	merge origin/Murat: Fast-forward
+e290597457d852a7744769d7f18a01cd701a6d91 5e47ba9cef9ace2e3fa266a2fed176a8ffe1af38 Nat <nataliatornea85@gmail.com> 1638218409 +0100	checkout: moving from Murat to Nat
+5e47ba9cef9ace2e3fa266a2fed176a8ffe1af38 b2380f6ec2d88219b27a948248aedbe501f62a46 Nat <nataliatornea85@gmail.com> 1638302272 +0100	commit: new features created
+b2380f6ec2d88219b27a948248aedbe501f62a46 e1841a7f3da830069bb4bbdb7487503d26ab0df0 Nat <nataliatornea85@gmail.com> 1638370673 +0100	checkout: moving from Nat to master
+e1841a7f3da830069bb4bbdb7487503d26ab0df0 b2380f6ec2d88219b27a948248aedbe501f62a46 Nat <nataliatornea85@gmail.com> 1638376366 +0100	checkout: moving from master to Nat
+b2380f6ec2d88219b27a948248aedbe501f62a46 b2380f6ec2d88219b27a948248aedbe501f62a46 Nat <nataliatornea85@gmail.com> 1638376803 +0100	branch: Reset to origin/Nat
+b2380f6ec2d88219b27a948248aedbe501f62a46 b2380f6ec2d88219b27a948248aedbe501f62a46 Nat <nataliatornea85@gmail.com> 1638376803 +0100	checkout: moving from Nat to Nat
+b2380f6ec2d88219b27a948248aedbe501f62a46 89d1562c4441226bb446ea80137903f711e95ac5 Nat <nataliatornea85@gmail.com> 1638380525 +0100	commit: sending messages code update
+89d1562c4441226bb446ea80137903f711e95ac5 54b1303758fb8a7740e637820abd04b7f5445b8e tor2nick <tor2nick@yahoo.com> 1638862054 +0200	commit: new features created_
+54b1303758fb8a7740e637820abd04b7f5445b8e acdf4ced346356215897b892018eb41ed0cffd13 tor2nick <tor2nick@yahoo.com> 1674984388 +0200	commit (amend): new features created__
+0000000000000000000000000000000000000000 1ebd3326db850676a8d9aa41e9897ba8bd251230 tor2nick <tor2nick@yahoo.com> 1674985177 +0200	commit (initial): new features created__
